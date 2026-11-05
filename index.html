@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f44c25">
+  <meta name="description" content="78 張洋流塔羅，78 種溫柔陪伴。抽一張牌，認識自己，用一個小練習，慢慢找回往前的力量。">
+  <title>洋流與你同在｜在乎你的暖陽</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="journal.css">
+  <link rel="stylesheet" href="deck-theme.css">
+  <script src="cards.js" defer></script>
+  <script src="journal-cards.js?v=20261105-deck" defer></script>
+  <script src="app.js?v=20261105-deck" defer></script>
+</head>
+<body>
+  <a href="#main" class="skip">跳到主要內容</a>
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="洋流與你同在首頁"><span>洋流與你同在<span class="brand-sub">在乎你的暖陽</span></span></a>
+    <nav aria-label="主要導覽">
+      <a href="#draw" data-nav="home">抽一張陪伴</a>
+      <a href="#collection" data-nav="collection">78種暖流</a>
+      <a href="#journal" data-nav="journal">我的心情手帳 <span id="journal-count">0</span></a>
+    </nav>
+    <button class="icon-btn about-button" data-action="about" aria-label="關於洋流">✳</button>
+  </header>
+  <main id="main" tabindex="-1"></main>
+  <footer><span class="footer-logo">洋流 ∿</span><p>有力量的溫柔，從好好照顧自己開始。</p><button class="text-btn" data-action="about">關於這段陪伴 ↗</button></footer>
+  <dialog id="card-dialog" aria-labelledby="card-title"><div id="card-dialog-content"></div></dialog>
+  <dialog id="about-dialog" class="small-dialog" aria-labelledby="about-title">
+    <button class="dialog-close" data-action="close-about" aria-label="關閉關於洋流">×</button>
+    <span class="eyebrow">ABOUT OCEANCURRENT</span><h2 id="about-title">溫柔，也有力量。</h2>
+    <p>這是一份以支持沈伯洋的心意出發、陪大家照顧自己的非官方創作。使用你提供的 78 張洋流牌卡與牌背，不代述本人立場，也沒有使用本人語錄。</p>
+    <p>牌意以偉特史密斯傳統主題為基礎，正逆位與陪伴文字加入本作的現代反思詮釋。逆位可以理解為受阻、過度或需要回到內在，並不是「壞事一定會發生」。</p>
+    <p>把塔羅當作整理心情的提問，答案與選擇仍由你決定。人物宮廷牌代表可練習的特質，不限定性別或身分。</p>
+    <a href="https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot" target="_blank" rel="noopener noreferrer">閱讀 A. E. Waite 原著參考 ↗</a>
+    <p class="fine-print">手帳與探索進度只保存在此瀏覽器。每則心情都能製作成圖片，留給自己或自由分享。清除瀏覽資料可能使紀錄消失。</p>
+  </dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

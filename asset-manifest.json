@@ -1,0 +1,318 @@
+[
+  {
+    "id": 0,
+    "source": "00_洋流_THE_FOOL.png"
+  },
+  {
+    "id": 1,
+    "source": "01_魔術師.png"
+  },
+  {
+    "id": 2,
+    "source": "02_女祭司.png"
+  },
+  {
+    "id": 3,
+    "source": "03_皇后.png"
+  },
+  {
+    "id": 4,
+    "source": "04_皇帝.png"
+  },
+  {
+    "id": 5,
+    "source": "05_教皇.png"
+  },
+  {
+    "id": 6,
+    "source": "06_戀人.png"
+  },
+  {
+    "id": 7,
+    "source": "07_戰車.png"
+  },
+  {
+    "id": 8,
+    "source": "08_力量.png"
+  },
+  {
+    "id": 9,
+    "source": "09_隱者.png"
+  },
+  {
+    "id": 10,
+    "source": "10_命運之輪.png"
+  },
+  {
+    "id": 11,
+    "source": "11_正義.png"
+  },
+  {
+    "id": 12,
+    "source": "12_吊人.png"
+  },
+  {
+    "id": 13,
+    "source": "13_死神.png"
+  },
+  {
+    "id": 14,
+    "source": "14_節制.png"
+  },
+  {
+    "id": 15,
+    "source": "15_惡魔.png"
+  },
+  {
+    "id": 16,
+    "source": "16_高塔.png"
+  },
+  {
+    "id": 17,
+    "source": "17_星星.png"
+  },
+  {
+    "id": 18,
+    "source": "18_月亮.png"
+  },
+  {
+    "id": 19,
+    "source": "19_太陽.png"
+  },
+  {
+    "id": 20,
+    "source": "20_審判.png"
+  },
+  {
+    "id": 21,
+    "source": "21_世界.png"
+  },
+  {
+    "id": 22,
+    "source": "22_權杖一.png"
+  },
+  {
+    "id": 23,
+    "source": "23_權杖二.png"
+  },
+  {
+    "id": 24,
+    "source": "24_權杖三.png"
+  },
+  {
+    "id": 25,
+    "source": "25_權杖四.png"
+  },
+  {
+    "id": 26,
+    "source": "26_權杖五.png"
+  },
+  {
+    "id": 27,
+    "source": "27_權杖六.png"
+  },
+  {
+    "id": 28,
+    "source": "28_權杖七.png"
+  },
+  {
+    "id": 29,
+    "source": "29_權杖八.png"
+  },
+  {
+    "id": 30,
+    "source": "30_權杖九.png"
+  },
+  {
+    "id": 31,
+    "source": "31_權杖十.png"
+  },
+  {
+    "id": 32,
+    "source": "32_權杖侍者.png"
+  },
+  {
+    "id": 33,
+    "source": "33_權杖騎士.png"
+  },
+  {
+    "id": 34,
+    "source": "34_權杖皇后.png"
+  },
+  {
+    "id": 35,
+    "source": "35_權杖國王.png"
+  },
+  {
+    "id": 36,
+    "source": "36_聖杯一.png"
+  },
+  {
+    "id": 37,
+    "source": "37_聖杯二.png"
+  },
+  {
+    "id": 38,
+    "source": "38_聖杯三.png"
+  },
+  {
+    "id": 39,
+    "source": "39_聖杯四.png"
+  },
+  {
+    "id": 40,
+    "source": "40_聖杯五.png"
+  },
+  {
+    "id": 41,
+    "source": "41_聖杯六.png"
+  },
+  {
+    "id": 42,
+    "source": "42_聖杯七.png"
+  },
+  {
+    "id": 43,
+    "source": "43_聖杯八.png"
+  },
+  {
+    "id": 44,
+    "source": "44_聖杯九.png"
+  },
+  {
+    "id": 45,
+    "source": "45_聖杯十.png"
+  },
+  {
+    "id": 46,
+    "source": "46_聖杯侍者.png"
+  },
+  {
+    "id": 47,
+    "source": "47_聖杯騎士.png"
+  },
+  {
+    "id": 48,
+    "source": "48_聖杯皇后.png"
+  },
+  {
+    "id": 49,
+    "source": "49_聖杯國王.png"
+  },
+  {
+    "id": 50,
+    "source": "50_寶劍一.png"
+  },
+  {
+    "id": 51,
+    "source": "51_寶劍二.png"
+  },
+  {
+    "id": 52,
+    "source": "52_寶劍三.png"
+  },
+  {
+    "id": 53,
+    "source": "53_寶劍四.png"
+  },
+  {
+    "id": 54,
+    "source": "54_寶劍五.png"
+  },
+  {
+    "id": 55,
+    "source": "55_寶劍六.png"
+  },
+  {
+    "id": 56,
+    "source": "56_寶劍七.png"
+  },
+  {
+    "id": 57,
+    "source": "57_寶劍八.png"
+  },
+  {
+    "id": 58,
+    "source": "58_寶劍九.png"
+  },
+  {
+    "id": 59,
+    "source": "59_寶劍十.png"
+  },
+  {
+    "id": 60,
+    "source": "60_寶劍侍者.png"
+  },
+  {
+    "id": 61,
+    "source": "61_寶劍騎士.png"
+  },
+  {
+    "id": 62,
+    "source": "62_寶劍皇后.png"
+  },
+  {
+    "id": 63,
+    "source": "63_寶劍國王.png"
+  },
+  {
+    "id": 64,
+    "source": "64_錢幣一.png"
+  },
+  {
+    "id": 65,
+    "source": "65_錢幣二.png"
+  },
+  {
+    "id": 66,
+    "source": "66_錢幣三.png"
+  },
+  {
+    "id": 67,
+    "source": "67_錢幣四.png"
+  },
+  {
+    "id": 68,
+    "source": "68_錢幣五.png"
+  },
+  {
+    "id": 69,
+    "source": "69_錢幣六.png"
+  },
+  {
+    "id": 70,
+    "source": "70_錢幣七.png"
+  },
+  {
+    "id": 71,
+    "source": "71_錢幣八.png"
+  },
+  {
+    "id": 72,
+    "source": "72_錢幣九.png"
+  },
+  {
+    "id": 73,
+    "source": "73_錢幣十.png"
+  },
+  {
+    "id": 74,
+    "source": "74_錢幣侍者.png"
+  },
+  {
+    "id": 75,
+    "source": "75_錢幣騎士.png"
+  },
+  {
+    "id": 76,
+    "source": "76_錢幣皇后.png"
+  },
+  {
+    "id": 77,
+    "source": "77_錢幣國王.png"
+  },
+  {
+    "id": 78,
+    "source": "78_洋流牌背.png"
+  }
+]
