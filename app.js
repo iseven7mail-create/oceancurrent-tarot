@@ -7,7 +7,7 @@
     return;
   }
   const SHOW_COLLECTION = false;
-  const OFFICIAL_LINE_URL = "";
+  const OFFICIAL_LINE_URL = "https://line.me/R/ti/p/@158vkyka";
   const SINGLE_CARD_LABEL = '很洋氣的簡單建議';
   document.querySelector('[data-nav="collection"]').hidden = !SHOW_COLLECTION;
   const KEY = 'oceancurrent-companion-v1';
@@ -75,7 +75,7 @@
   }
   function readingOffer() {
     const lineButton = OFFICIAL_LINE_URL
-      ? `<p><a class="secondary" href="${escape(OFFICIAL_LINE_URL)}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">加少甫的官方 LINE ↗</a></p>`
+      ? `<p><a class="secondary" href="${escape(OFFICIAL_LINE_URL)}" target="_blank" rel="noopener noreferrer" style="text-decoration:none">加少甫老師的官方 LINE ↗</a></p>`
       : '';
     return `<div class="spread-summary"><strong>想了解更多？</strong><p>可以截圖保留抽牌結果，花 30 元獲得少甫的詳細解析。</p>${lineButton}</div>`;
   }
