@@ -16,7 +16,8 @@
     button:focus-visible, a:focus-visible { outline: 3px solid #f44c25; outline-offset: 4px; }
     .art { text-align: center; }
     #card-image { display: block; max-width: 100%; width: auto; max-height: 78vh; margin: 0 auto; }
-    .art.expanded #card-image { width: 100%; max-height: none; }
+    .art.expanded { overflow: auto; max-height: 78vh; }
+    .art.expanded #card-image { width: max(100%, 760px); max-width: none; max-height: none; }
     .support { margin-top: 28px; padding: 24px; border: 2px solid #181a12; background: #fffaeb; box-shadow: 5px 5px #181a12; }
     .support p { margin: 0 0 16px; }
     .line-link { display: inline-block; }
@@ -27,12 +28,12 @@
       body { background: white; }
       main { margin: 0; padding: 0; max-width: none; }
       .screen-only { display: none !important; }
-      .art, .art.expanded { margin: 0; break-inside: avoid; }
+      .art, .art.expanded { margin: 0; break-inside: avoid; overflow: visible; max-height: none; }
       #card-image, .art.expanded #card-image { width: auto; height: 270mm; max-height: 270mm; max-width: 190mm; object-fit: contain; margin: 0 auto; }
     }
   </style>
   <script src="cards.js" defer></script>
-  <script src="card-view.js?v=20261121" defer></script>
+  <script src="card-view.js?v=20261121-mobile" defer></script>
 </head>
 <body>
   <main>

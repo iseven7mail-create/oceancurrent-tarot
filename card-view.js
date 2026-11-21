@@ -30,6 +30,9 @@
     const expanded = document.querySelector('#card-art').classList.toggle('expanded');
     zoom.setAttribute('aria-pressed', String(expanded));
     zoom.textContent = expanded ? '縮回適合畫面大小' : '再放大牌卡';
+    status.textContent = expanded
+      ? '牌卡已放大，可在牌面區域左右、上下滑動查看細節。'
+      : `圖片尺寸 ${image.naturalWidth} × ${image.naturalHeight} 像素。列印時會依紙張比例完整呈現牌面。`;
   });
   download.addEventListener('click', async () => {
     download.disabled = true;
